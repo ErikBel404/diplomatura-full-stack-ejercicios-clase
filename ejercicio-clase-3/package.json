@@ -1,0 +1,24 @@
+{
+  "name": "diplomatura-full-stack-ejercicios-clase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js",  
+    "check": "node --check src/index.js && node --check src/archivos.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErikBel404/diplomatura-full-stack-ejercicios-clase.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ErikBel404/diplomatura-full-stack-ejercicios-clase/issues"
+  },
+  "homepage": "https://github.com/ErikBel404/diplomatura-full-stack-ejercicios-clase#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

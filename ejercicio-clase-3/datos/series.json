@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "titulo": "Frontera Sur",
+        "genero": "Drama",
+        "temporadas": 2
+    },
+    {
+        "id": 2,
+        "titulo": "Órbita 9",
+        "genero": "Ciencia ficción",
+        "temporadas": 1
+    },
+    {
+        "id": 3,
+        "titulo": "Código Central",
+        "genero": "Drama",
+        "temporadas": 3
+    }
+]
+
+
+
